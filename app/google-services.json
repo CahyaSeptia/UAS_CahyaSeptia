@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1065303941535",
+    "project_id": "uas-cahya",
+    "storage_bucket": "uas-cahya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065303941535:android:49bf4040d2d9fcdb699daa",
+        "android_client_info": {
+          "package_name": "com.example.uas_cahyaseptia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065303941535-krr6eciasaqdef9210t3g94gvtoop2lu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uas_cahyaseptia",
+            "certificate_hash": "6ba0918046522df9ba560dd2111ff85c0a5aaeae"
+          }
+        },
+        {
+          "client_id": "1065303941535-qea72p4fu1bran4r9fobb4ituffe00jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaEbezjiZCz0v0VcC7ME9OO8H3s5TXJ4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065303941535-qea72p4fu1bran4r9fobb4ituffe00jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
